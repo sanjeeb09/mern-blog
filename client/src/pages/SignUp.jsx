@@ -48,7 +48,7 @@ export default function SignUp() {
             Blog
           </Link>
           <p className="text-sm mt-5">
-            © 2024 GITAM. All Rights Reserved | Crafted by Sanjeeb
+            A new way to Access Blogs....
           </p>
         </div>
         {/* right */}

@@ -22,7 +22,7 @@ export default function FooterCom() {
               <Footer.Title title='About' />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href='https://github.com/sanjeeb09/mern-blog/commits/main'
+                  href='https://github.com/sanjeeb09?tab=repositories'
                   target='_blank'
                   rel='noopener noreferrer'
                 >

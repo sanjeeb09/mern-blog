@@ -102,9 +102,12 @@ export default function CreatePost() {
             }
           >
             <option value="uncategorized">Select a category</option>
-            <option value="news">Today News</option>
-            <option value="achievements">Recent Achievements</option>
-            <option value="gallery">Photo Gallery</option>
+            <option value="polity">Polity & Governance</option>
+            <option value="science">Science & Tech</option>
+            <option value="environment">Geography & Environment</option>
+            <option value="economy">Economy</option>
+            <option value="international">International Relations</option>
+            <option value="security">Internal Security</option>
           </Select>
         </div>
         <div className="flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3">
